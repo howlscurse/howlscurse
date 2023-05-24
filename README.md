@@ -1,4 +1,4 @@
-### It's showtime! 💫
+# It's showtime! 💫
 
 - Currently studying in [Alura.](https://www.alura.com.br)
 - Learning how to program in Javascript.
